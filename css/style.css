@@ -124,6 +124,7 @@ body {
 }
 
 .main-section-items {
+  justify-content: space-around;
   margin: 0;
   margin-bottom: 330px;
   padding: 0;
